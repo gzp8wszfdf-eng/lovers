@@ -97,5 +97,5 @@ function answer(correct){
  else document.getElementById('hint').textContent='Попробуй ещё раз, любимая ❤️';
 }
 </script>
-</body>
+</body> 
 </html>
